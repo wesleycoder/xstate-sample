@@ -1,0 +1,19 @@
+{
+  "name": "xstate-sample",
+  "version": "1.0.0",
+  "description": "xstate-sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleycoder/xstate-sample.git"
+  },
+  "author": "Wésley Queiroz <wesley.coder@gmail.com> (https://github.com/wescoder)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesleycoder/xstate-sample/issues"
+  },
+  "homepage": "https://github.com/wesleycoder/xstate-sample#readme"
+}
