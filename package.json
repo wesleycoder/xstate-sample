@@ -2,9 +2,10 @@
   "name": "xstate-sample",
   "version": "1.0.0",
   "description": "xstate-sample",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -14,6 +15,13 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wesleycoder/xstate-sample/issues"
+  },
+  "dependencies": {
+    "@xstate/react": "0.8.1",
+    "next": "^9.4.4",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "xstate": "4.7.6"
   },
   "homepage": "https://github.com/wesleycoder/xstate-sample#readme"
 }
